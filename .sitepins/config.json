@@ -1,0 +1,15 @@
+{
+  "media": {
+    "root": "images",
+    "public": "images"
+  },
+  "content": {
+    "root": "shortcodes"
+  },
+  "code": {
+    "root": ""
+  },
+  "themeConfig": [],
+  "arrangement": [],
+  "showCommitModal": true
+}
